@@ -1,6 +1,6 @@
 Domain Parking Page
 =============
-Einfache Landingpage für Webserver (Default Stop Site, Blank Page with domainname).
+Einfache Landingpage für Webserver (default stop site, blank page with domainname).
 
 
 ##
