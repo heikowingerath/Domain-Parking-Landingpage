@@ -9,4 +9,4 @@ Klone einfach folgendes Repo: https://github.com/heikowingerath/Domain-Parking-L
 
 
 ## Credits - Danke für die Vorarbeit an:
-avoori: https://avoori.com/
+avoori
