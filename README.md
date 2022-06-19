@@ -8,7 +8,5 @@ Einfache Installation mit Git:
 Klone einfach folgendes Repo: https://github.com/heikowingerath/Domain-Parking-Landingpage
 
 
-## Credits
-[avoori]: https://avoori.com/
-[landing-url]: http://domain-landing.avoori.com/
-Danke für die Vorarbeit.
+## Credits - Danke für die Vorarbeit an:
+avoori: https://avoori.com/
