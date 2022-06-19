@@ -4,7 +4,8 @@ Einfache Landingpage für Webserver (default stop site, blank page with domainna
 
 ##
 Einfache Installation mit Git:
-Klone einfach folgendes Repo: https://github.com/heikowingerath/Domain-Parking-Landingpage
+Klone einfach folgendes Repo:
+https://github.com/heikowingerath/Domain-Parking-Landingpage
 
 
 
